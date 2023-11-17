@@ -5,6 +5,9 @@
 Самостоятельно реализовать прикладную задачу;  
 Сохранить результат в HashMap<шаг теста, результат>  
 Вывести на экран статистику по победам и поражениям  
+
+![JDK_HW6_RESULT](https://github.com/MaksimZ91/JDK_HW6/assets/72209139/f9d25fe2-af47-4149-b31f-9e3deb90fd59)
+
 ## CLass Main
 ```java
 package org.example;
@@ -175,4 +178,4 @@ public class Statistic {
 
 ```
 
-![JDK_HW6_RESULT](https://github.com/MaksimZ91/JDK_HW6/assets/72209139/f9d25fe2-af47-4149-b31f-9e3deb90fd59)
+
